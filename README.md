@@ -137,7 +137,7 @@ SAFe Agile with 2-week sprints and quarterly PI Planning. Fibonacci story point 
 
 ## Presentation
 
-Full solution presented in `BookingPlatform_Solution.pptx` — 23 slides covering all four case study sections in order.
+Full solution presented in `Sunil_Reddy_Booking_Platform_Solution.pdf` — 23 slides covering all four case study sections in order.
 
 | Slides | Coverage |
 |---|---|
